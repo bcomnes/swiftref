@@ -4,6 +4,9 @@ notes on swift.
 
 
 - [ Resources for Learning Swift](https://developer.apple.com/swift/resources/)
+- [raywenderlich/swift-style-guide](https://github.com/raywenderlich/swift-style-guide)
+- [swift.org/documentation/api-design-guidelines/](https://swift.org/documentation/api-design-guidelines/)
+- []()
 
 ## Install
 
@@ -59,3 +62,42 @@ No configuration needed, since Xcode sets up everything for you.  It would be in
 ## Sets
 
 ## Functions
+
+## Closures
+
+## Collections
+
+### Enumerations (Enums)
+
+### Structs
+
+### Classes
+
+### Extensions
+
+### Protocols
+
+#### Protocol Extensions
+
+### Generics
+
+### Common Interfaces
+
+#### CustomStringConvertable
+
+#### Equitable / Comparable
+
+## Error Handling
+
+## Memory Mangement
+
+## Pacakge management
+
+```
+$ swift package init
+$ swift package init --type executable
+$ swift test
+```
+
+- [swift.org/package-manager](https://swift.org/package-manager/)
+- [Intro to SwiftPM](https://medium.com/xcblog/apple-swift-package-manager-a-deep-dive-ebe6909a5284)[alt](http://shashikantjagtap.net/apple-swift-package-manager-a-deep-dive/)
