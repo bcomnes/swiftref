@@ -101,3 +101,12 @@ $ swift test
 
 - [swift.org/package-manager](https://swift.org/package-manager/)
 - [Intro to SwiftPM](https://medium.com/xcblog/apple-swift-package-manager-a-deep-dive-ebe6909a5284)[alt](http://shashikantjagtap.net/apple-swift-package-manager-a-deep-dive/)
+
+## Cocoa
+
+<dl>
+  <dt>outlet</dt>
+  <dd>reference to an object</dd>
+  <dt>action</dt>
+  <dd>method that gets triggered by a button or some other view that the user can interact with.</dd>
+</dl>
